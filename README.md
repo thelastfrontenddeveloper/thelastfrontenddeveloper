@@ -10,4 +10,4 @@ Bir frontend developer'ın yapay zeka ile çalışma günlüğü. Claude Code, C
 - **Building in Public** · bir ürünü fikirden yayına taşımak
 - **The New Developer Stack** · Claude Code, Codex, MCP ve agent sistemleri
 
-[Site](https://the-last-frontend-developer.vercel.app) · [YouTube](https://www.youtube.com/@lastfrontenddeveloper) · [X](https://x.com/thelastfrontend) · [Instagram](https://www.instagram.com/lastfrontenddeveloper/) · [Medium](https://medium.com/@thelastfrontenddeveloper)
+[Site](https://sonfrontenddeveloper.dev) · [YouTube](https://www.youtube.com/@lastfrontenddeveloper) · [X](https://x.com/thelastfrontend) · [Instagram](https://www.instagram.com/lastfrontenddeveloper/) · [Medium](https://medium.com/@thelastfrontenddeveloper)
