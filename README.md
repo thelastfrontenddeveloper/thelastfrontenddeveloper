@@ -11,3 +11,7 @@ Bir frontend developer'ın yapay zeka ile çalışma günlüğü. Claude Code, C
 - **The New Developer Stack** · Claude Code, Codex, MCP ve agent sistemleri
 
 [Site](https://sonfrontenddeveloper.dev) · [YouTube](https://www.youtube.com/@lastfrontenddeveloper) · [X](https://x.com/thelastfrontend) · [Instagram](https://www.instagram.com/lastfrontenddeveloper/) · [Medium](https://medium.com/@thelastfrontenddeveloper)
+
+---
+
+Created by [Serkan Uslu](https://serkanuslu.com)
